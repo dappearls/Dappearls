@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daffa Ardiansyah</h1>
 <h3 align="center">Hanya Untuk Bersenang-senang :)</h3>
-<img align="center" alt="Coding" width="400" src="https://camo.githubusercontent.com/cd833befa98b97eaf4a45f4e85ec64453e9bdf1f134f8f1592d583911b7c7d7c/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a3832382f302a37513379765349765f7430696f4a2d5a2e676966">
+<img align="center" alt="Coding" width="400" src="https://static.wikia.nocookie.net/80123f07-848e-49bc-83e6-2089421f6462/scale-to-width/755">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dappearls&label=Profile%20views&color=0e75b6&style=flat" alt="dappearls" /> </p>
 
