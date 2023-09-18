@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daffa Ardiansyah</h1>
 <h3 align="center">Hanya Untuk Bersenang-senang :)</h3>
-https://www.google.com/search?client=ms-android-xiaomi&sca_esv=566330112&sxsrf=AM9HkKkKCmN3ADa5ocEPokuAxmG_48-oGw:1695065677151&q=animated+coding+gif&tbm=isch&source=lnms&sa=X&ved=2ahUKEwiHv7rc87SBAxVwzjgGHS22AgUQ0pQJegQICxAB&biw=458&bih=733&dpr=1.58#imgrc=47chckvIQOvI5M
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsKZVppBhshJBN6_RHp9luylwz4eQO4I8Tg&usqp=CAU
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dappearls&label=Profile%20views&color=0e75b6&style=flat" alt="dappearls" /> </p>
 
