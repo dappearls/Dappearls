@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daffa Ardiansyah</h1>
 <h3 align="center">Hanya Untuk Bersenang-senang :)</h3>
-<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="center" alt="Coding" width="400" src="IMG-20230919-234132-092.jpg](https://i.postimg.cc/258HQnrw/IMG-20230919-234132-092.jpg)](https://postimg.cc/yDtXBgJg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dappearls&label=Profile%20views&color=0e75b6&style=flat" alt="dappearls" /> </p>
 
