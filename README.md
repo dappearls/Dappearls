@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **https://wa.me/+50660029961**
 
-- 📫 How to reach me **daffaardiansyah722@gmail.com**
+- 📫 How to reach me **dappearlsz@gmail.com**
 
 <h2><b>Donation To Me ðŸ’¸</i></b></h2>
 <p align="cemter"> <a href="https://saweria.co/Dappearls">CLICK HERE !</a>
